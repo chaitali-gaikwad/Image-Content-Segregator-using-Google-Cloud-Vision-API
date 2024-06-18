@@ -12,3 +12,4 @@ Features:
 📥 Download Option: Need to preserve the segregated visual elements? Simply download the processed image with a single click, ensuring convenient access to the segregated content.
 
 Whether you're a researcher seeking to digitize text from images or a designer aiming to extract visual elements for further manipulation, this Image Content Segregator serves as a valuable asset.
+
